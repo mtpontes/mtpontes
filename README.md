@@ -19,7 +19,8 @@ Sou um desenvolvedor back-end com foco em Java. Gosto de desenvolver minhas solu
 
 
 ---
-<br>
 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuspontess&show_icons=true&theme=dark&hide_title=true)
+<div align="center">
+  <img src="http://profile-badges-iota.vercel.app/api/cards/profile-details?username=mateuspontess&theme=dark" width=900  alt="stats graph"/>
+
+</div>
