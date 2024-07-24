@@ -20,6 +20,6 @@ Sou um desenvolvedor back-end com foco em Java. Gosto de desenvolver minhas solu
 
 ---
 <div align="center">
-  <img src="http://profile-badges-iota.vercel.app/api/cards/profile-details?username=mateuspontess&theme=default" width=900  alt="stats graph"/>
+  <img src="http://profile-badges-iota.vercel.app/api/cards/profile-details?username=mateuspontess&theme=dark" width=900  alt="stats graph"/>
 
 </div>
