@@ -1,6 +1,6 @@
 # Olá, eu sou o Mateus!
 
-Sou um desenvolvedor back-end com foco em Java. Gosto de desenvolver minhas soluções utilizando dos melhores conceitos de arquitetura, boas práticas e design patterns. O que eu curto mesmo é o back-end, mas também gosto de entender a base de outras áreas relacionadas para me dispor de uma visão mais ampla do todo. Não consigo ficar parado, por isso estou sempre aprendendo algo novo ou melhorando/expandindo o que eu já conheço.
+Sou um desenvolvedor back-end com foco em Java. Gosto de desenvolver minhas soluções utilizando dos melhores conceitos de arquitetura, boas práticas e design patterns. O meu foco é o back-end, mas também gosto de entender a base de outras áreas relacionadas para me dispor de uma visão mais ampla do todo. Não consigo ficar parado, por isso estou sempre aprendendo algo novo ou melhorando/expandindo o que eu já conheço.
 
 
 ## Stack
