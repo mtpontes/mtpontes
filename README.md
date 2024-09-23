@@ -2,7 +2,7 @@
 
 Gosto de desenvolver minhas soluções utilizando dos melhores conceitos de arquitetura, boas práticas e design patterns. Apesar de o meu foco estar em back-end, também gosto de entender a base de outras áreas relacionadas para me dispor de uma visão mais ampla do todo. Sigo sempre aprendendo algo novo ou melhorando/expandindo o que eu já conheço.
 
-
+ 
 ## Stack
 
 
