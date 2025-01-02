@@ -20,6 +20,5 @@ Gosto de desenvolver minhas soluções utilizando dos melhores conceitos de arqu
 
 ---
 <div align="center">
-  <img src="http://profile-badges-iota.vercel.app/api/cards/profile-details?username=mtpontes&theme=github_dark" width=900  alt="stats graph"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mtpontes&theme=github_dark" width=900  alt="stats graph"/>
 </div>
