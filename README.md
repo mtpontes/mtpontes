@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/developer-Back--end-fad000?style=for-the-badge&logo=keyboard&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-python-fad000?style=for-the-badge&logo=keyboard&logoColor=white"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-f9cf00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IAC-Terraform%20%7C%20Serverless_-f9cf00?style=for-the-badge&logo=&logoColor=white"/>
+</p>
 
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Gosto de desenvolver soluções utilizando os melhores conceitos de arquitetura, boas práticas e design patterns.<br>
 Apesar do foco em back-end, busco entender outras áreas para ter uma visão mais ampla.<br>
@@ -19,7 +19,7 @@ Estou sempre aprendendo algo novo ou expandindo o que já conheço.
 ---
 
 <details>
-  <summary><h2>🚀 Stack</h2></summary>
+  <summary><h2>Stack</h2></summary>
 <table>
   <tr>
     <td><b>Code</b></td>
@@ -104,10 +104,12 @@ Estou sempre aprendendo algo novo ou expandindo o que já conheço.
 
 
 
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mtpontes&theme=shades_of_purple"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mtpontes&theme=shades_of_purple"/>
 </div>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=footer"/>
