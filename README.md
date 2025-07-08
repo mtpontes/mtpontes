@@ -99,6 +99,9 @@ Estou sempre aprendendo algo novo ou expandindo o que já conheço.
     </td>
   </tr>
 </table>
+
+<hr />
+
 </details>
 
 
