@@ -16,7 +16,6 @@ Gosto de desenvolver soluções utilizando os melhores conceitos de arquitetura,
 Apesar do foco em back-end, busco entender outras áreas para ter uma visão mais ampla.<br>
 Estou sempre aprendendo algo novo ou expandindo o que já conheço.
 
----
 
 <details>
   <summary><h2>Stack</h2></summary>
