@@ -2,11 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
 </p>
 
+<p>
 <svg viewBox='0 0 1000 10' width='100%' height='10' xmlns='http://www.w3.org/2000/svg'>
   <line x1='0' y1='5' x2='1000' y2='5' stroke='#b362ff' stroke-width='2'>
     <animate attributeName='stroke' values='#b362ff;#f9cf00;#b362ff' dur='2s' repeatCount='indefinite' />
   </line>
 </svg>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-f9cf00?style=for-the-badge&logo=java&logoColor=white"/>
