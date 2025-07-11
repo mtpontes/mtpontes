@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Bem-vindo%20ao%20meu%20perfil!&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Bem-vindo!&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
 </p>
 
 <svg viewBox="0 0 1000 10" width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
