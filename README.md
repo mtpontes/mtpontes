@@ -69,7 +69,7 @@ Estou sempre aprendendo algo novo ou expandindo o que já conheço.
     </td>
   </tr>
   <tr>
-    <td><b>Mensageria</b></td>
+    <td><b>Messaging</b></td>
     <td>
       <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon%20SNS-E6007A?style=for-the-badge&logo=&logoColor=white"/>
