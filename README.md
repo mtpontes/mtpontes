@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Bem-vindo!&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=b362ff&height=120&section=header&text=Software%20Engineer&fontColor=f4cb02&fontSize=35&animation=twinkling"/>
 </p>
 
 <svg viewBox="0 0 1000 10" width="100%" height="10" xmlns="http://www.w3.org/2000/svg">
@@ -8,14 +8,14 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python-f9cf00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IAC-Terraform%20%7C%20Serverless_-f9cf00?style=for-the-badge&logo=&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Python%20%7C%20TypeScript-f9cf00?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
 
 
 ## Sobre mim
 
 Gosto de desenvolver soluções utilizando os melhores conceitos de arquitetura, boas práticas e design patterns.<br>
+Minha principal stack é Java e seu ecossistema.<br>
 Apesar do foco em back-end, busco entender outras áreas para ter uma visão mais ampla.<br>
 Estou sempre aprendendo algo novo ou expandindo o que já conheço.
 
